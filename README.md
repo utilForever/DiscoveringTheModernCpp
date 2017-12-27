@@ -1,17 +1,17 @@
 # 모던 C++ 입문 - 예제 저장소
 
-<img src="https://github.com/utilForever/DiscoveringTheModernCpp/blob/master/Book.jpg" align="center" />
+[![License](https://img.shields.io/badge/Licence-MIT-blue.svg)](https://github.com/Cryptonite-team/CppSecureCodingStudy/blob/master/LICENSE)
 
 <모던 C++ 입문>에 나오는 예제들을 정리해 놓은 저장소입니다.
 
-[![License](https://img.shields.io/badge/Licence-MIT-blue.svg)](https://github.com/Cryptonite-team/CppSecureCodingStudy/blob/master/LICENSE)
+<img src="https://github.com/utilForever/DiscoveringTheModernCpp/blob/master/Book.jpg" align="center" />
 
 ## 할 일 목록
 
-[ ] 예제 주석 한글화
-[ ] C++17에서 바뀐 부분 정리
-[ ] 유용한 C++ 사이트 정리
-[ ] 도움이 되는 C++ 책 정리
+- [ ] 예제 주석 한글화
+- [ ] C++17에서 바뀐 부분 정리
+- [ ] 유용한 C++ 사이트 정리
+- [ ] 도움이 되는 C++ 책 정리
 
 ## 문의하기
 
